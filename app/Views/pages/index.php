@@ -25,11 +25,11 @@
         <table class="table-auto w-full border-collapse broder border-gray-300">
             <thead>
                 <tr class="bg-gray-200">
-                    <th class="border border-gray-300 px-4 py-2">Name</th>
-                    <th class="border border-gray-300 px-4 py-2">Address</th>
-                    <th class="border border-gray-300 px-4 py-2">Bundle</th>
-                    <th class="border border-gray-300 px-4 py-2">Price</th>
-                    <th class="border border-gray-300 px-4 py-2">Action</th>
+                    <th class="border border-gray-300 px-4 py-2">Nama</th>
+                    <th class="border border-gray-300 px-4 py-2">Alamat</th>
+                    <th class="border border-gray-300 px-4 py-2">Paket</th>
+                    <th class="border border-gray-300 px-4 py-2">Harga</th>
+                    <th class="border border-gray-300 px-4 py-2">Aksi</th>
                 </tr>
             </thead>
             <tbody>
